@@ -1,0 +1,6 @@
+{
+  "dbConfig": {
+    "host": "mongodb://Paramstech:Params%40Aws123@cluster0-shard-00-00-iwj3j.mongodb.net:27017,cluster0-shard-00-01-iwj3j.mongodb.net:27017,cluster0-shard-00-02-iwj3j.mongodb.net:27017/padata?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin"
+  },
+  "cookie": ["'Cookie: mediaAuth=88c707ab69e95ae2444dc4a861861c4a1e0f7115594d3458cacde8af70b3a9da741a00a5be1fddcefe4b1d11507edb7320e9028d9a606f349f3c874c711a35556463900ff00bd48b7e0f1407146e20cd918e52c1817718632c1a9d7809c878facc6aa2dd0fff4a1c056ffb04445499e46b339e03a9e369d839ed17ff4ac2bb61266381f5cd113004'"]
+}
